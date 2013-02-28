@@ -12,7 +12,7 @@
 <body>
 	<form method="post" action="createCustomer">
 		<table>
-			<tr><td align="right">Brugernavn:</td> <td><input type="text" name="customerName"/></td></tr>
+			<tr><td align="right">Brugernavn:</td>jkljklkjklklkjkl<td><input type="text" name="customerName"/></td></tr>
 			<tr><td align="right">Kodeord:</td> <td><input type="password" name="customerPass"/></td></tr>
 			<tr><td align="right">Gentag kodeord:</td><td><input type="password" name="passCheck"/></td></tr>
 			<tr><td/><td><input type="submit" value="Opret bruger"></td></tr>
